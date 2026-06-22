@@ -46,13 +46,23 @@ A two-platform VR educational system for teaching PC hardware and assembly, buil
 
 ## Screenshots
 
-| Lobby | Module 1 — Museum |
-|---|---|
-| ![Lobby](docs/screenshots/lobby.png) | ![Module 1](docs/screenshots/module1-museum.png) |
-| **Module 4 — Assembly** | **Web dashboard** |
-| ![Module 4](docs/screenshots/module4-assembly.png) | ![Dashboard](docs/screenshots/dashboard.png) |
+### VR — the five scenes
 
-> Drop these four PNGs into `docs/screenshots/` with the exact filenames above. The README expects: `lobby.png`, `module1-museum.png`, `module4-assembly.png`, `dashboard.png`.
+| Lobby | Module 1 — PC History & Components |
+|---|---|
+| ![Lobby](docs/screenshots/lobby.png) | ![Module 1](docs/screenshots/module1.png) |
+| **Module 2 — Component Catalog** | **Module 3 — Knowledge Quiz** |
+| ![Module 2](docs/screenshots/module2.png) | ![Module 3](docs/screenshots/module3.png) |
+| **Module 4 — Guided PC Assembly** | |
+| ![Module 4](docs/screenshots/module4.png) | |
+
+### Web dashboard — student & professor views
+
+| Student dashboard | Professor dashboard |
+|---|---|
+| ![Student dashboard](docs/screenshots/dashboard-student.png) | ![Professor dashboard](docs/screenshots/dashboard-professor.png) |
+
+> Drop these PNGs into `docs/screenshots/` with these exact filenames: `lobby.png`, `module1.png`, `module2.png`, `module3.png`, `module4.png`, `dashboard-student.png`, `dashboard-professor.png`.
 
 ## Demo
 
