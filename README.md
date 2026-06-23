@@ -1,4 +1,4 @@
-# PC Hardware Education & Assembly Training in VR
+﻿# PC Hardware Education & Assembly Training in VR
 
 > Learn to build a PC — hands-on, in VR.
 
@@ -50,11 +50,11 @@ A two-platform VR educational system for teaching PC hardware and assembly, buil
 
 | Lobby | Module 1 — PC History & Components |
 |---|---|
-| ![Lobby](docs/screenshots/lobby.png) | ![Module 1](docs/screenshots/module1.png) |
+| ![Lobby](docs/screenshots/lobby.jpg) | ![Module 1](docs/screenshots/module1.jpg) |
 | **Module 2 — Component Catalog** | **Module 3 — Knowledge Quiz** |
-| ![Module 2](docs/screenshots/module2.png) | ![Module 3](docs/screenshots/module3.png) |
+| ![Module 2](docs/screenshots/module2.jpg) | ![Module 3](docs/screenshots/module3.png) |
 | **Module 4 — Guided PC Assembly** | |
-| ![Module 4](docs/screenshots/module4.png) | |
+| ![Module 4](docs/screenshots/module4.jpg) | |
 
 ### Web dashboard — student & professor views
 
@@ -62,15 +62,11 @@ A two-platform VR educational system for teaching PC hardware and assembly, buil
 |---|---|
 | ![Student dashboard](docs/screenshots/dashboard-student.png) | ![Professor dashboard](docs/screenshots/dashboard-professor.png) |
 
-> Drop these PNGs into `docs/screenshots/` with these exact filenames: `lobby.png`, `module1.png`, `module2.png`, `module3.png`, `module4.png`, `dashboard-student.png`, `dashboard-professor.png`.
-
 ## Demo
 
-[![Watch the demo](docs/screenshots/lobby.png)](VIDEO_URL_HERE)
+[![Watch the demo](docs/screenshots/lobby.jpg)](https://www.youtube.com/watch?v=R1d4OFiEVn0)
 
-▶ **[Watch the gameplay demo](VIDEO_URL_HERE)**
-
-> Replace `VIDEO_URL_HERE` with the YouTube/Vimeo link once uploaded. If you upload as a YouTube Short (vertical ≤ 60s), the embed thumbnail still works.
+▶ **[Watch the gameplay demo](https://www.youtube.com/watch?v=R1d4OFiEVn0)**
 
 ## How to Try It
 
@@ -112,3 +108,4 @@ The full source — Unity project, web dashboard, and design assets — is kept 
 The contents of this showcase repository (README, screenshots, report copy) are released under the [MIT License](LICENSE), © 2026 Anwer Bouharb.
 
 The underlying Unity project and web dashboard source code are **All Rights Reserved** and not redistributed here.
+
