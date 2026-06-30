@@ -68,26 +68,6 @@ A two-platform VR educational system for teaching PC hardware and assembly, buil
 
 ▶ **[Watch the gameplay demo](https://www.youtube.com/watch?v=R1d4OFiEVn0)**
 
-## How to Try It
-
-A signed Meta Quest build is available under [Releases](../../releases).
-
-1. Enable **Developer Mode** on your Meta Quest from the Meta Horizon mobile app.
-2. Connect the headset to your PC via USB-C, allow USB debugging when prompted.
-3. Side-load the .apk:
-   ```sh
-   adb install Module1+2+4.apk
-   ```
-4. Launch from the Quest library under **Unknown Sources**.
-
-The live web dashboard runs at `https://vr-dashboard-murex.vercel.app` (read-only demo accounts available on request).
-
-## Project Report
-
-The full PFE report (English) is included in this repo:
-
-📄 [`docs/Rapport.pdf`](docs/Rapport.pdf)
-
 ## Source Code Access
 
 The full source — Unity project, web dashboard, and design assets — is kept in a private repository. Email **anwerbouharb01@gmail.com** for access (CV review, hiring discussions, or academic verification).
